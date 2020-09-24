@@ -1,0 +1,3 @@
+C:/Users/Keyris/CLionProjects/Laba2/cmake-build-debug/CMakeFiles/Laba2.dir
+C:/Users/Keyris/CLionProjects/Laba2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Keyris/CLionProjects/Laba2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
